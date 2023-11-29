@@ -15,10 +15,16 @@ This repository contains a collection of machine learning models developed for v
 
 ## Directory Structure
 
-- **/model1**: Description and resources for Model 1.
-- **/model2**: Description and resources for Model 2.
+- **/SLR**: Description and resources for Model 1.
+- **/DT**: Description and resources for Model 2.
+- **/LOGESTIC**: Description and resources for Model 3.
+- **/NAIVE BAYES**: Description and resources for Model 3.
 - **/model3**: Description and resources for Model 3.
-- ...
+- **/model3**: Description and resources for Model 3.
+- **/model3**: Description and resources for Model 3.
+- **/model3**: Description and resources for Model 3.
+- **/model3**: Description and resources for Model 3.
+- **/model3**: Description and resources for Model 3.
 
 ## Models
 
