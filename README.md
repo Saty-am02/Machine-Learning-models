@@ -8,10 +8,9 @@ This repository contains a collection of machine learning models developed for v
 
 1. [Directory Structure](#directory-structure)
 2. [Models](#models)
-3. [Dependencies](#dependencies)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Directory Structure
 
@@ -24,7 +23,7 @@ This repository contains a collection of machine learning models developed for v
 - **/KNN**:
 - **/PCA**: 
 - **/ENSAMBLES**: 
-- **/model3**: 
+
 
 ## Models
 
