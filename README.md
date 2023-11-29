@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of machine learning models developed for various purposes. Each model is housed in its respective directory along with necessary documentation and resources.
+This repository contains a collection of machine learning models developed for various purposes. Each model is housed  with necessary documentation and resources.
 
 ## Table of Contents
 
